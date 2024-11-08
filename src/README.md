@@ -1,7 +1,7 @@
 ---
 home: true
 icon: home
-title: 项目主页测试ces
+title: 项目主页测试1108
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
