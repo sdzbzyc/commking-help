@@ -1,5 +1,5 @@
 ---
-title: 产品说明书
+title: 综合布线耗材
 icon: fa-solid fa-book
 ---
 

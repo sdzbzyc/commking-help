@@ -28,6 +28,7 @@ Frontmatter 是 VuePress 中很重要的一个概念，请阅读 [Frontmatter �
 
 :::
 
+
 ## Markdown 扩展
 
 VuePress 会使用 [markdown-it](https://github.com/markdown-it/markdown-it) 来解析 Markdown 内容，因此可以借助于 markdown-it 插件来实现 [语法扩展](https://github.com/markdown-it/markdown-it#syntax-extensions) 。
@@ -37,6 +38,26 @@ VuePress 会使用 [markdown-it](https://github.com/markdown-it/markdown-it) 来
 为了丰富文档写作，VuePress 对 Markdown 语法进行了扩展。
 
 关于这些扩展，请阅读 [VuePress 中的 Markdown 扩展](https://theme-hope.vuejs.press/zh/cookbook/vuepress/markdown.html)。
+
+# 光纤清洁笔产品手册
+
+通信汪CKCP系列光纤端面清洁笔，它代替了传统的棉球和酒精，使用时只需要简单的一按即可去除光纤连接器插芯、器件、模块上的油污和灰尘，可持续使用并保证高质量的清洁效果。
+
+## 结构说明
+
+
+
+| No.  | 零件名称   |                 功能                 |
+| :--- | :--------- | :----------------------------------: |
+| A    | 尖端       |       将清洁线引至光连接器端面       |
+| B    | 锁定按钮   |         按下按钮可伸缩延长杆         |
+| C    | 外壳       |         推动外壳以清洁连接器         |
+| D    | 导向盖     | 用作防尘盖或用于清洁光纤跳线上的街头 |
+| E    | 余量显示窗 |            剩余清洁线指示            |
+
+  ## 光纤适配器端面（母头）清洁
+
+1.从设备上取下导向盖。
 
 ### 主题扩展
 

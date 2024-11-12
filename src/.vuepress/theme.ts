@@ -4,16 +4,19 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "http://help.commking.cn",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "CommKing",
+    url: "https://www.commking.cn",
   },
 
   iconAssets: "fontawesome-with-brands",
+//  iconAssets: "fontawesome-with-brands",
+//  iconAssets: "https://kit.fontawesome.com/0ab4701a0b.js",
+//  iconAssets: '//at.alicdn.com/t/c/font_3180165_6o97v6oir2j.css',
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "/logo.png",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 

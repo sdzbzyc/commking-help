@@ -1,5 +1,5 @@
 ---
-title: 产品说明书
+title: 工具类说明书
 icon: fa-solid fa-book
 ---
 
