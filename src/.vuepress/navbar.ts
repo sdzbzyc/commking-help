@@ -28,13 +28,13 @@ export default navbar([
     icon: "lightbulb",
     prefix: "/guide/",
     children: [
-      {
-        text: "京东自营旗舰店",
-        icon: "lightbulb",
-        link: "https://commking.jd.com",
+//      {
+//        text: "京东自营旗舰店",
+//        icon: "lightbulb",
+//        link: "https://commking.jd.com",
 //        prefix: "bar/",
 //        children: ["baz", { text: "...", icon: "ellipsis", link: "" }],
-      },      
+//      },      
       {
         text: "京东网络自营旗舰店",
         icon: "lightbulb",
