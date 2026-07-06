@@ -18,7 +18,7 @@ actions:
 features:
   - title: 关于本站
     icon: fa-solid fa-house
-    details: 通信汪CommKing售后支持站点，面向客户，目标是提升服务水平、提升售后体验。
+    details: 通信汪CommKing售后支持的站点，面向客户，目标是提升服务水平、提升售后体验。
     link: /guide/features/safety.html
 
   - title: 使用帮助
