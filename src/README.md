@@ -3,7 +3,7 @@ home: true
 title: 通信汪CommKing
 icon: home
 heroText: 通信汪CommKing
-tagline: 在这里可以查询到产品的使用说明。
+tagline: 产品使用说明书
 heroImage: /logo.png
 actions:
   - text: 💡 快速查看
