@@ -57,6 +57,14 @@ export default hopeTheme({
  //     category: "Announcements",
  //     categoryId: "DIC_kwDOG_Pt2M4COD69",
  //   },
+      seo: true,
+      sitemap: true,
+
+      docsearch: {
+        appId: "你的 ALGOLIA_APP_ID",
+        apiKey: "你的 ALGOLIA_SEARCH_API_KEY",
+        indexName: "你的 ALGOLIA_INDEX_NAME",
+      },
 
     components: {
       components: ["Badge", "VPCard"],
