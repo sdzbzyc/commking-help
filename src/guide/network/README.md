@@ -1,6 +1,6 @@
 ---
 title: 网络测试仪
-index: ture
+index: true
 icon: fa-solid fa-folder
 category:
   - 使用指南

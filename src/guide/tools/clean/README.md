@@ -1,6 +1,6 @@
 ---
 title: 光纤清洁工具
-index: ture
+index: true
 icon: fa-solid fa-folder
 category:
   - 使用指南

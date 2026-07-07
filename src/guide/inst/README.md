@@ -1,6 +1,6 @@
 ---
 title: 仪器仪表类
-index: ture
+index: true
 icon: fa-solid fa-folder
 category:
   - 使用指南

@@ -1,6 +1,6 @@
 ---
 title: 光纤熔接机
-index: ture
+index: true
 icon: laptop-code
 category:
   - 使用指南

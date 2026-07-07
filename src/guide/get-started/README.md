@@ -15,12 +15,3 @@ icon: fa-solid fa-circle-info
 
 ## 标题二
 
-### Bar
-
-- [baz](bar/baz.md)
-- ...
-
-### Foo
-
-- [ray](foo/ray.md)
-- ...
