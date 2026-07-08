@@ -61,9 +61,9 @@ export default hopeTheme({
       sitemap: true,
 
       docsearch: {
-        appId: "你的 ALGOLIA_APP_ID",
-        apiKey: "你的 ALGOLIA_SEARCH_API_KEY",
-        indexName: "你的 ALGOLIA_INDEX_NAME",
+        appId: "4KDWFWXV0T",
+        apiKey: "85b2fb0736ff4ed76d88dcfbd9e0ae9d",
+        indices: ["help-commking"],
       },
 
     components: {
