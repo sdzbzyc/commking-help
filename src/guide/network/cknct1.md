@@ -1,6 +1,7 @@
 ---
 title: CKNCT-1 网络寻线仪
 description: CKNCT-1 网络寻线仪使用说明，包含产品参数、接口说明、电量检测、网线对线、普通寻线、交换机寻线和安全注意事项。
+footer: true
 category:
   - 网络工具
 tag:

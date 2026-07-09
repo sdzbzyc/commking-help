@@ -2,6 +2,7 @@
 title: CKFI-1 光纤识别仪使用说明
 icon: fa-solid fa-magnifying-glass
 order: 1
+footer: true
 category:
   - 光纤识别仪
 tag:

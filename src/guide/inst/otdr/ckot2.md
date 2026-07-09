@@ -2,6 +2,7 @@
 title: CKOT-2 系列光时域反射仪使用说明
 icon: fa-solid fa-wave-square
 order: 2
+footer: true
 category:
   - 光时域反射仪
   - 测试仪表

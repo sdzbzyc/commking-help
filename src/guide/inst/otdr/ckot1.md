@@ -2,6 +2,7 @@
 title: CKOT-1A 光时域反射仪使用说明
 icon: fa-solid fa-wave-square
 order: 1
+footer: true
 category:
   - 光时域反射仪
   - 测试仪表

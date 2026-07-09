@@ -2,6 +2,7 @@
 title: FOC 系列二进二出光缆接头盒使用说明
 icon: fa-solid fa-box
 order: 1
+footer: true
 category:
   - 光缆接头盒
 tag:

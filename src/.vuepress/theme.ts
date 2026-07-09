@@ -29,8 +29,8 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
-  displayFooter: true,
+  footer: "通信汪CommKing产品帮助中心",
+  copyright: "Copyright © 2019-present 淄博光迅网络科技有限公司",
 
   // 加密配置
   encrypt: {
@@ -59,6 +59,22 @@ export default hopeTheme({
  //   },
       seo: true,
       sitemap: true,
+      git: {
+        contributors: {
+          info: [
+            {
+              // GitHub 用户名
+              username: "sdzbzyc",
+
+              // 网页上实际显示的名称
+              name: "通信汪 CommKing",
+
+              // Git 历史中可能出现的提交者名称
+              alias: ["sdzbzyc"],
+            },
+          ],
+        },
+      },
 
       docsearch: {
         appId: "4KDWFWXV0T",
