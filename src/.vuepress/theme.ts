@@ -62,7 +62,7 @@ export default hopeTheme({
 
       docsearch: {
         appId: "4KDWFWXV0T",
-        apiKey: "85b2fb0736ff4ed76d88dcfbd9e0ae9d",
+        apiKey: "2cee4749ce981285444720599d79caf3",
         indices: ["help-commking"],
       },
 
